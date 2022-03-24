@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @bulaciox
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
